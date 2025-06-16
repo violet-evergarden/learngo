@@ -6,7 +6,7 @@ import (
 )
 
 func main(){
-	var  a,b = "fuck",0
+	var  a,b = "hello world",0
 	const W,H = 12,4
 	//fmt.Println("谢谢你")
 	var area = W*H
